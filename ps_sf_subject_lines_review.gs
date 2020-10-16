@@ -1,4 +1,4 @@
-function ps_sl_subject_lines_review() {
+function ps_sf_subject_lines_review() {
   
   var important_sheet1 = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Income');
   var important_sheet2 = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Working sheet');
